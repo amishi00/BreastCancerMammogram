@@ -1,2 +1,3 @@
 # BreastCancerMammogram
 This repository links to a deepnote notebook which contains the code. The notebook's purpose is to train a Convolutional Neural Network (CNN) model in order to classify positive and negative in breast cancer mammograms. To run the program, simply click 'run notebook'. The accuracy of using 10 epochs will be displayed after the code has ran. 
+You can find the link to the notebook here: https://deepnote.com/workspace/amishi-gupta-03ba-be199f63-b9be-480a-bcaa-86fcb2474d32/project/BWSI-Week-3-Project-941a78b9-6400-4aee-91e0-2651ceaf49dd/notebook/TSA%20Data%20Science-2-71b591b93be640ea9d2aee092a42c0c4 
